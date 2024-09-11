@@ -16,7 +16,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
         </a>
       </li>
       <li> 
-        <a href="https://github.com/YourUsername/Database-Management-Systems-Implementation"> 
+        <a href="https://github.com/BiancaM30/Database-Management-Systems-Implementation"> 
           :floppy_disk: Database Management Systems Implementation 
         </a>
       </li>
