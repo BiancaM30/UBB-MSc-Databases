@@ -6,12 +6,12 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
   <li>:open_file_folder: Semester 1
     <ul>
       <li> 
-        <a href="https://github.com/YourUsername/Data-Mining"> 
+        <a href="https://github.com/BiancaM30/Academic-Ethics-and-Integrity.-Methodology-of-Scientific-Research"> 
           :books: Academic Ethics and Integrity. Methodology of Scientific Research
         </a>
       </li>
       <li> 
-        <a href="https://github.com/YourUsername/Data-Mining"> 
+        <a href="https://github.com/BiancaM30/Data_Mining"> 
           :chart_with_upwards_trend: Data Mining 
         </a>
       </li>
