@@ -35,7 +35,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
   <li>:open_file_folder: Semester 2
     <ul>
       <li> 
-        <a href="https://github.com/YourUsername/Data-Servers"> 
+        <a href="https://github.com/BiancaM30/Data-Servers"> 
           :desktop_computer: Data Servers 
         </a>
       </li>
