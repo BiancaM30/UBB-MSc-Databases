@@ -40,7 +40,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
         </a>
       </li>
       <li> 
-        <a href="https://github.com/YourUsername/Grid-Cluster-Cloud-Computing"> 
+        <a href="https://github.com/BiancaM30/Grid-Cluster-and-Cloud-Computing"> 
           :cloud: Grid, Cluster, and Cloud Computing 
         </a>
       </li>
