@@ -50,7 +50,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
         </a>
       </li>
       <li> 
-        <a href="https://github.com/YourUsername/Social-Network-Analysis"> 
+        <a href="https://github.com/BiancaM30/Social-Network-Analysis"> 
           :busts_in_silhouette: Social Network Analysis 
         </a>
       </li>
