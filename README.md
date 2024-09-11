@@ -45,7 +45,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
         </a>
       </li>
       <li> 
-        <a href="https://github.com/YourUsername/Security-Protocols"> 
+        <a href="https://github.com/BiancaM30/Security-Protocols-in-Communications"> 
           :closed_lock_with_key: Security Protocols in Communications 
         </a>
       </li>
