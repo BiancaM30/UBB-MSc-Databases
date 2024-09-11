@@ -26,7 +26,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
         </a>
       </li> -->
       <li> 
-        <a href="https://github.com/YourUsername/Modular-Arithmetics-and-Cryptography"> 
+        <a href="https://github.com/BiancaM30/Modular-Arithmetics-and-Cryptography"> 
           :lock: Modular Arithmetics and Cryptography 
         </a>
       </li>
