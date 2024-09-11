@@ -20,11 +20,11 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
           :floppy_disk: Database Management Systems Implementation 
         </a>
       </li>
-      <li> 
+<!--       <li> 
         <a href="https://github.com/YourUsername/Agile-Methodologies"> 
           :recycle: Agile Methodologies for Software Application Development 
         </a>
-      </li>
+      </li> -->
       <li> 
         <a href="https://github.com/YourUsername/Modular-Arithmetics-and-Cryptography"> 
           :lock: Modular Arithmetics and Cryptography 
