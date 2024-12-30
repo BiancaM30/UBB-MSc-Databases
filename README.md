@@ -56,6 +56,16 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
       </li>
     </ul>
   </li>
+
+  <li>:open_file_folder: Semester 3
+    <ul>
+      <li> 
+        <a href="https://github.com/BiancaM30/Data-Servers"> 
+          :desktop_computer: Adaptive Web Design
+        </a>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 <br>
