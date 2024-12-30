@@ -60,7 +60,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
   <li>:open_file_folder: Semester 3
     <ul>
       <li> 
-        <a href="https://github.com/BiancaM30/Data-Servers"> 
+        <a href="https://github.com/BiancaM30/AWD"> 
           :desktop_computer: Adaptive Web Design
         </a>
       </li>
