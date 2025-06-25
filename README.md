@@ -69,6 +69,11 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
           :desktop_computer: Advanced Chapters of Databases
         </a>
       </li>
+      <li> 
+        <a href="https://github.com/BiancaM30/Computer-Vision"> 
+          :desktop_computer: Computer Vision
+        </a>
+      </li>
     </ul>
   </li>
 </ul>
