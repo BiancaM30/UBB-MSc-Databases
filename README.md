@@ -74,6 +74,11 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
           :desktop_computer: Computer Vision
         </a>
       </li>
+      <li> 
+        <a href="https://github.com/BiancaM30/Formal-Models-of-Concurrency-and-Communication"> 
+          :desktop_computer: Formal Models of Concurrency and Communication
+        </a>
+      </li>
     </ul>
   </li>
 </ul>
