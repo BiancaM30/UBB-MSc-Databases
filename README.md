@@ -64,6 +64,11 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
           :art: Adaptive Web Design
         </a>
       </li>
+       <li> 
+        <a href="https://github.com/BiancaM30/AWD"> 
+          :art: Adaptive Web Design
+        </a>
+      </li>
 <!--       <li> 
         <a href="https://github.com/BiancaM30/Advanced-Chapters-of-Databases"> 
           :desktop_computer: Advanced Chapters of Databases
