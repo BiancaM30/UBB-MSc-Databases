@@ -61,7 +61,8 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
     <ul>
       <li> 
         <a href="https://github.com/BiancaM30/AWD"> 
-          :desktop_computer: Adaptive Web Design
+          :art: Adaptive Web Design
+          
         </a>
       </li>
       <li> 
@@ -71,12 +72,12 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
       </li>
       <li> 
         <a href="https://github.com/BiancaM30/Computer-Vision"> 
-          :desktop_computer: Computer Vision
+          :eye: Computer Vision
         </a>
       </li>
       <li> 
         <a href="https://github.com/BiancaM30/Formal-Models-of-Concurrency-and-Communication"> 
-          :desktop_computer: Formal Models of Concurrency and Communication
+          :repeat: Formal Models of Concurrency and Communication
         </a>
       </li>
     </ul>
