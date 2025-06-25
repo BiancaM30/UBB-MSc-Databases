@@ -83,6 +83,18 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
   </li>
 </ul>
 
+<ul>
+  <li>:open_file_folder: Semester 4
+      <ul>
+        <li> 
+          <a href="https://github.com/BiancaM30/Dissertation-Brainalytics.git"> 
+            :brain: Dissertation - Brainalytics
+          </a>
+        </li>
+      </ul>
+  </li>
+</ul>
+
 <br>
 
 <a href="http://www.cs.ubbcluj.ro">
