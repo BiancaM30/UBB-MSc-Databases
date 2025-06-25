@@ -69,12 +69,6 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
           :desktop_computer: Advanced Chapters of Databases
         </a>
       </li>
-      
-<!--       <li> 
-        <a href="https://github.com/BiancaM30/Advanced-Chapters-of-Databases"> 
-          :desktop_computer: Advanced Chapters of Databases
-        </a>
-      </li>
       <li> 
         <a href="https://github.com/BiancaM30/Computer-Vision"> 
           :eye: Computer Vision
@@ -84,7 +78,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
         <a href="https://github.com/BiancaM30/Formal-Models-of-Concurrency-and-Communication"> 
           :repeat: Formal Models of Concurrency and Communication
         </a>
-      </li> -->
+      </li>
     </ul>
   </li>
 </ul>
