@@ -62,10 +62,9 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
       <li> 
         <a href="https://github.com/BiancaM30/AWD"> 
           :art: Adaptive Web Design
-          
         </a>
       </li>
-      <li> 
+<!--       <li> 
         <a href="https://github.com/BiancaM30/Advanced-Chapters-of-Databases"> 
           :desktop_computer: Advanced Chapters of Databases
         </a>
@@ -79,7 +78,7 @@ Welcome to my repository for the **Databases Master's Degree** at Babeș-Bolyai 
         <a href="https://github.com/BiancaM30/Formal-Models-of-Concurrency-and-Communication"> 
           :repeat: Formal Models of Concurrency and Communication
         </a>
-      </li>
+      </li> -->
     </ul>
   </li>
 </ul>
